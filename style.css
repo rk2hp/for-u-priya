@@ -26,6 +26,7 @@ body {
   
   position: absolute;
   cursor: grab;
+  touch-action: none; 
 }
 
 
